@@ -57,6 +57,6 @@ Using git from the command line:
  Running make_questions.py using command line:
 
  1. Navigate to the directory in which the file is saved.
- 2. enter "python make_questions.py" (for Python 3 enter "python3 make_questions.py")
+ 2. Enter "python make_questions.py" (for Python 3 enter "python3 make_questions.py")
  3. The questions.js file will be automatically generated with 25000 newly randomized questions.
 
