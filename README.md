@@ -1,5 +1,6 @@
 # Jeopardy-
-This repository holds the source code for an updated version of Jeopardy. The repository is published for group Project 1 in Software Engineering. The final report is located here: https://github.com/alanyoung7/Jeopardy-/blob/main/Software_Engineering___Report_Assignment_1.pdf 
+This repository holds the source code for an updated version of Jeopardy. The repository is published for group Project 1 in Software Engineering. 
+The final report is located here: https://github.com/alanyoung7/Jeopardy-/blob/main/Software_Engineering___Report_Assignment_1.pdf 
 
 To play the game, go to: https://alanyoung7.github.io/Jeopardy-/public/index.html. 
 This game is meant to be controled by a single person (the host) who enters the answers provided by the contestants. The gameplay can be shared over applications such as Zoom or Micorsoft Teams. 
