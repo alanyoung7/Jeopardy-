@@ -37,11 +37,7 @@ A menu will pop up over the "Select Players" drop down menu. Just select pause o
 
 Have fun!!!!
 
-For developers interested in the source code. The game is written in 
-HTML5 
-CSS3
-Bootstrap Upgraded to 5.0.2
-jQuery Upgraded to 3.6.3 
+For developers interested in the source code. The game is written in, HTML5, CSS3, Bootstrap Upgraded to 5.0.2, jQuery Upgraded to 3.6.3.
 It was originally sourced from https://github.com/airbr/webdev-jeopardy. 
 
 To further the gameplay, we 
