@@ -40,7 +40,7 @@ Have fun!!!!
 For developers interested in the source code. The game is written in, HTML5, CSS3, Bootstrap Upgraded to 5.0.2, jQuery Upgraded to 3.6.3.
 It was originally sourced from https://github.com/airbr/webdev-jeopardy. 
 
-To further the gameplay, we 
+Changelog: 
 1. added more than one player.
 2. Changed the questions to be dynamic.
 3. Allowed for the categories to change for each game.
@@ -54,7 +54,7 @@ Using git from the command line:
  3. Open public/index.html with a server of your choice in your web browser `http-server public/`
  4. Enjoy
 
- Using make_questions.py using command line:
+ Running make_questions.py using command line:
 
  1. Navigate to the directory in which the file is saved.
  2. enter "python make_questions.py" (for Python 3 enter "python3 make_questions.py")
