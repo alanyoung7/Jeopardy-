@@ -58,8 +58,11 @@ Using git from the command line:
  3. Open public/index.html with a server of your choice in your web browser `http-server public/`
  4. Enjoy
 
+ To create your own server in Python:
+ 1. python3 -m http.server
+ 2. Go to localhost:8000 in your browser and follow the file structure to the index.html file. 
+ 
  Running make_questions.py using command line:
-
  1. Navigate to the directory in which the file is saved.
  2. Enter "python make_questions.py" (for Python 3 enter "python3 make_questions.py")
  3. The questions.js file will be automatically generated with 25000 newly randomized questions.
