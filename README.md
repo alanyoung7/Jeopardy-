@@ -44,10 +44,12 @@ For developers interested in the source code. The game is written in, HTML5, CSS
 
 Changelog: 
 1. added more than one player.
-2. Changed the questions to be dynamic.
-3. Allowed for the categories to change for each game.
-4. Added 25000 questions.
-5. Created a Python script to randomly change the questions.
+2. Added player names.
+3. Made game show the correct answer.
+4. Changed the questions to be dynamic.
+5. Allowed for the categories to change for each game.
+6. Added 25000 questions.
+7. Created a Python script to randomly change the questions.
 
 Using git from the command line:
 
