@@ -1,4 +1,6 @@
 # Jeopardy-
+This game was originally sourced from: https://github.com/airbr/webdev-jeopardy. 
+
 This repository holds the source code for an updated version of Jeopardy. The repository is published for group Project 1 in Software Engineering. 
 The final report is located here: https://github.com/alanyoung7/Jeopardy-/blob/main/Software_Engineering___Report_Assignment_1.pdf 
 
@@ -39,7 +41,6 @@ A menu will pop up over the "Select Players" drop down menu. Just select pause o
 Have fun!!!!
 
 For developers interested in the source code. The game is written in, HTML5, CSS3, Bootstrap Upgraded to 5.0.2, jQuery Upgraded to 3.6.3.
-It was originally sourced from https://github.com/airbr/webdev-jeopardy. 
 
 Changelog: 
 1. added more than one player.
